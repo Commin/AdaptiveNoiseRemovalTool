@@ -57,6 +57,4 @@ year = {2020},
 publisher = {Association for Computing Machinery},
 pages = {655–656}
 }
-
-
  ```
